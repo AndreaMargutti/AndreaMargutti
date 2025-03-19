@@ -22,7 +22,5 @@ Hi! I'm Andrea Margutti, a Junior Software Developer! Here some informations abo
 
 ## Front-End Technologies
 1. HTMl & CSS
-<picture>
-<img src="https://i.pinimg.com/736x/91/17/48/91174838481320be811fa7da10a51fea.jpg" width="30px">
-</picture>
-3. Javascript <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
+<img src="https://i.pinimg.com/736x/91/17/48/91174838481320be811fa7da10a51fea.jpg" width="50px">
+3. Javascript <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50px">
