@@ -22,5 +22,20 @@ Hi! I'm Andrea Margutti, a Junior Software Developer! Here some informations abo
 
 ## Front-End Technologies
 1. HTMl & CSS
-<img src="https://i.pinimg.com/736x/91/17/48/91174838481320be811fa7da10a51fea.jpg" width="50px">
-3. Javascript <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" width="50px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/340px-CSS3_logo_and_wordmark.svg.png" width="50px">
+3. Javascript
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50px">
+4. Sass
+<img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" width="50px">
+5. Bootstrap
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="50px">
+6. Tailwind
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" width="50px">
+7. Vue (Options and Composition API)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" width="50px">
+8. Nuxt
+<img src="https://nuxt.com/assets/design-kit/icon-green.svg" width="50px">
+9. *RESTful API*
+<img src="https://www.iconpacks.net/icons/free-icons-6/free-rest-api-blue-logo-icon-22098-thumb.png" width="50px">
+
