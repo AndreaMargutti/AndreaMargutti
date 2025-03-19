@@ -22,7 +22,7 @@ Hi! I'm Andrea Margutti, a Junior Software Developer! Here some informations abo
 
 ## Front-End Technologies
 1. HTMl & CSS
-<div style="display: flex; gap: 5px">
+<div style="display: inline-flex; gap: 5px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" width="50px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/340px-CSS3_logo_and_wordmark.svg.png" width="50px">  
 </div>
