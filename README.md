@@ -27,7 +27,7 @@ Hi! I'm Andrea Margutti, a Junior Software Developer! Here some informations abo
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/340px-CSS3_logo_and_wordmark.svg.png" width="50px">  
 </div>
 3. Javascript
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50px" style="margin-top: 10px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50px" style="margin-top: 100px">
 4. Sass
 <img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" width="50px" style="margin-top: 10px">
 5. Bootstrap
