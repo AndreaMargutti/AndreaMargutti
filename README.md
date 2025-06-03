@@ -58,7 +58,7 @@ Ciao! I'm **Andrea Margutti**, a passionate Junior Software Developer currently 
 <div align="center">
   <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=AndreaMargutti&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=AndreaMargutti&show_icons=true&theme=shades-of-purple"
     media="(prefers-color-scheme: dark)"
   />
   <source
