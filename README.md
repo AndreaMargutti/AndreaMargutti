@@ -2,7 +2,7 @@
 
 <div align="center">
 
-(https://raw.githubusercontent.com/AndreaMargutti/AndreaMargutti/output/ithub-contribution-grid-snake.svg)
+![github contribution grid snake](https://raw.githubusercontent.com/AndreaMargutti/AndreaMargutti/output/github-contribution-grid-snake.svg)
 
 ### 🚀 Junior Front-End Developer | Nuxt.js Enthusiast | Varese, Italy
 
