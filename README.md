@@ -86,6 +86,4 @@ Ciao! I'm **Andrea Margutti**, a passionate Junior Software Developer currently 
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-margutti-688841238/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/AndreaMargutti)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](marguttiandrea30@gmail.com)
-
 </div>
