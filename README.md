@@ -1,16 +1,84 @@
-## Hi there 👋
+# Hi there, I'm Andrea! 👋
 
+<div align="center">
+  
 ![github contribution grid snake animation](https://raw.githubusercontent.com/reistence/reistence/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/reistence/reistence/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
+### 🚀 Junior Front-End Developer | Nuxt.js Enthusiast | Varese, Italy
 
-Hi! I'm Andrea Margutti, a Junior Software Developer! Here some informations about me:
-- I'm based in Varese
-- I currently work for atoms, a Retex Brand in Milan, as a **Front-End Developer** and i'm enjoying it!
-- I studied at Boolean (Full-Stack Web Development 6 months full-time course) and now i'm studying on my own!
+</div>
 
-# My Stack
-1. Nuxt Framework
-2. Vue
-3. Javascript and Typescript
-4. CSS & TailwindCSS
-5. HTML5
+---
+
+## 👨‍💻 About Me
+
+Ciao! I'm **Andrea Margutti**, a passionate Junior Software Developer currently crafting beautiful web experiences at **atoms** (a Retex Brand) in Milan. 
+
+🎓 **Background**: Graduated from Boolean's intensive 6-month Full-Stack Web Development bootcamp  
+📍 **Location**: Based in Varese, working in Milan  
+🌱 **Currently**: Deepening my expertise in modern front-end technologies and exploring new frameworks  
+💼 **Role**: Front-End Developer specializing in Vue.js ecosystem
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend Technologies
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxt logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vue logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+</div>
+
+**Primary Focus:**
+- **Nuxt 3** - Building modern, performant web applications
+- **Vue.js** - Creating reactive and component-based UIs  
+- **TypeScript** - Writing type-safe, maintainable code
+- **TailwindCSS** - Crafting beautiful, responsive designs
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=reistence&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reistence&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+---
+
+## 🎯 What I'm Up To
+
+- 🔭 Currently working on exciting projects at **atoms**
+- 🌱 Learning advanced Nuxt 3 patterns and best practices
+- 👯 Looking to collaborate on Vue.js/Nuxt.js projects
+- 💬 Ask me about **Nuxt 3**, **Vue.js**, or **modern CSS**
+- ⚡ Fun fact: I love turning complex problems into simple, elegant solutions!
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/reistence)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+  <em>"Code is like humor. When you have to explain it, it's bad." - Cory House</em>
+</div>
