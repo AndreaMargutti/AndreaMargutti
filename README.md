@@ -56,7 +56,17 @@ Ciao! I'm **Andrea Margutti**, a passionate Junior Software Developer currently 
 ## 📊 GitHub Stats
 
 <div align="center">
-[![AndreaMargutti's GitHub stats](https://github-readme-stats.vercel.app/api?username=# Hi there, I'm Andrea! 👋
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=AndreaMargutti&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=AndreaMargutti&show_icons=true&theme=shades-of-purple"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AndreaMargutti&show_icons=truetheme=shades-of-purple" />
+</picture>
 </div>
 
 
@@ -78,39 +88,4 @@ Ciao! I'm **Andrea Margutti**, a passionate Junior Software Developer currently 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/AndreaMargutti)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](marguttiandrea30@gmail.com)
 
-</div>
-
----
-
-<div align="center">
-  <em>"Code is like humor. When you have to explain it, it's bad." - Cory House</em>
-</div>)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
----
-
-## 🎯 What I'm Up To
-
-- 🔭 Currently working on exciting projects at **atoms**
-- 🌱 Learning advanced Nuxt 3 patterns and best practices
-- 👯 Looking to collaborate on Vue.js/Nuxt.js projects
-- 💬 Ask me about **Nuxt 3**, **Vue.js**, or **modern CSS**
-- ⚡ Fun fact: I love turning complex problems into simple, elegant solutions!
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-margutti-688841238/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/AndreaMargutti)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](marguttiandrea30@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-  <em>"Code is like humor. When you have to explain it, it's bad." - Cory House</em>
 </div>
