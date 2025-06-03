@@ -10,7 +10,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AndreaMargutti/AndreaMargutti/output/github-contribution-grid-snake.svg">
 </picture>
 
-
 </div>
 
 ---
@@ -57,16 +56,16 @@ Ciao! I'm **Andrea Margutti**, a passionate Junior Software Developer currently 
 
 <div align="center">
   <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=AndreaMargutti&show_icons=true&theme=shades-of-purple"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=AndreaMargutti&show_icons=true&theme=shades-of-purple"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=AndreaMargutti&show_icons=truetheme=shades-of-purple" />
-</picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=AndreaMargutti&show_icons=true&theme=shades-of-purple"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=AndreaMargutti&show_icons=true&theme=shades-of-purple"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=AndreaMargutti&show_icons=truetheme=shades-of-purple" />
+  </picture>
 </div>
 
 
@@ -77,13 +76,3 @@ Ciao! I'm **Andrea Margutti**, a passionate Junior Software Developer currently 
 - 👯 Looking to collaborate on Vue.js/Nuxt.js projects
 - 💬 Ask me about **Nuxt 3**, **Vue.js**, or **modern CSS**
 - ⚡ Fun fact: I love turning complex problems into simple, elegant solutions!
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-margutti-688841238/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/AndreaMargutti)
-</div>
