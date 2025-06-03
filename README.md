@@ -2,8 +2,6 @@
 
 <div align="center">
 
-
-
 ### 🚀 Junior Front-End Developer | Nuxt.js Enthusiast | Varese, Italy
 
 </div>
