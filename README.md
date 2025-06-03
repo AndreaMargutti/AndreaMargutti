@@ -14,6 +14,10 @@
 
 ---
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=marguttiandrea30&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=marguttiandrea30&redirect=true)
+
+---
+
 ## 👨‍💻 About Me
 
 Ciao! I'm **Andrea Margutti**, a passionate Junior Software Developer currently crafting beautiful web experiences at **atoms** (a Retex Brand) in Milan. 
