@@ -54,6 +54,12 @@ Ciao! I'm **Andrea Margutti**, a passionate Junior Software Developer currently 
 - **TypeScript** - Writing type-safe, maintainable code
 - **TailwindCSS** - Crafting beautiful, responsive designs
 
+**Other Technologies:**
+- MySQL
+- PHP
+- Laravel
+- Bootstrap
+
 ---
 
 ## 📊 GitHub Stats
