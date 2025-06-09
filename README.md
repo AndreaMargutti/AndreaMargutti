@@ -60,6 +60,16 @@ Ciao! I'm **Andrea Margutti**, a passionate Junior Software Developer currently 
 - Laravel
 - Bootstrap
 
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://www.php.net/images/logos/new-php-logo.svg" height="40" alt="php logo"/>
+  <img width="12" />
+  <img src="https://static-00.iconduck.com/assets.00/laravel-icon-995x1024-dk77ahh4.png" height="40" alt="laravel logo"/>
+  <img width="12" />
+  <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" height="40" alt="bootstrap logo" />
+</div>
+
 ---
 
 ## 📊 GitHub Stats
